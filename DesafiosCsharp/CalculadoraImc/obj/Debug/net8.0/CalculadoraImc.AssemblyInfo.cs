@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SomaDeUmADez")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CalculadoraImc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ed3d3ba0be9bdc61f0c4a4e043ec03ae51cdabe")]
-[assembly: System.Reflection.AssemblyProductAttribute("SomaDeUmADez")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SomaDeUmADez")]
+[assembly: System.Reflection.AssemblyProductAttribute("CalculadoraImc")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CalculadoraImc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

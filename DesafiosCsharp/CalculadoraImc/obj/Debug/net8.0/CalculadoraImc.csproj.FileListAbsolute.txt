@@ -1,0 +1,15 @@
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\bin\Debug\net8.0\CalculadoraImc.exe
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\bin\Debug\net8.0\CalculadoraImc.deps.json
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\bin\Debug\net8.0\CalculadoraImc.runtimeconfig.json
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\bin\Debug\net8.0\CalculadoraImc.dll
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\bin\Debug\net8.0\CalculadoraImc.pdb
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.AssemblyInfo.cs
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.sourcelink.json
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.dll
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\refint\CalculadoraImc.dll
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.pdb
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\CalculadoraImc.genruntimeconfig.cache
+C:\Users\etec\Desktop\desafios-csharp-fdevs\DesafiosCsharp\CalculadoraImc\obj\Debug\net8.0\ref\CalculadoraImc.dll
