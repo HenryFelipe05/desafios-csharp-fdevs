@@ -1,0 +1,15 @@
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\bin\Debug\net8.0\SomaDeUmADez.exe
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\bin\Debug\net8.0\SomaDeUmADez.deps.json
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\bin\Debug\net8.0\SomaDeUmADez.runtimeconfig.json
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\bin\Debug\net8.0\SomaDeUmADez.dll
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\bin\Debug\net8.0\SomaDeUmADez.pdb
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.AssemblyInfoInputs.cache
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.AssemblyInfo.cs
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.csproj.CoreCompileInputs.cache
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.sourcelink.json
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.dll
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\refint\SomaDeUmADez.dll
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.pdb
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\SomaDeUmADez.genruntimeconfig.cache
+C:\Users\etec\Desktop\desafios-csharp-fdevs\SomaDeUmADez\obj\Debug\net8.0\ref\SomaDeUmADez.dll
